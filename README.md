@@ -10,7 +10,7 @@
 ### Before you begin
 
 ###### Obtain an API key to use Google GEO Location API using the following link:
-https://developers.google.com/maps/documentation/geocoding/get-api-key
+https://developers.google.com/maps/documentation/timezone/start#get-a-key
 ###### Edit `deploy/config.yml` and enter the obtained api key
 
 ` APIkey: xxxxxxxxxxxxxx-xxxxxxxxxxxx `
